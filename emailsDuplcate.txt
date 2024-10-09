@@ -1,0 +1,54 @@
+QUANTIDADE DE EMAILs DUPLICADOS APÓS REMOVER AS CARTEIRAS REMOVIDOS -> 45
+
+Duplicate email 'f.casseano@gmail.com' found in files: GUILDA, COMUNIDADES
+Duplicate email 'machabas@gmail.com' found in files: GUILDA, COMUNIDADES
+Duplicate email 'luiz_azevedo87@hotmail.com' found in files: GUILDA, COMUNIDADES, COMUNIDADES, COMUNIDADES
+Duplicate email 'tjrbatera@gmail.com' found in files: GUILDA, COMUNIDADES
+Duplicate email 'nftcryptogamer@proton.me' found in files: COMUNIDADES, COMUNIDADES
+Duplicate email 'mano.fuzeta@gmail.com' found in files: COMUNIDADES, COMUNIDADES
+Duplicate email 'lucioxavier8080@gmail.com' found in files: COMUNIDADES, COMUNIDADES
+Duplicate email 'danilodutra00@gmail.com' found in files: COMUNIDADES, COMUNIDADES
+Duplicate email 'joaofilhogrande123@gmail.com' found in files: COMUNIDADES, COMUNIDADES
+Duplicate email 'asg151299@outlook.com' found in files: COMUNIDADES, COMUNIDADES
+Duplicate email 'agilsimar@gmail.com' found in files: COMUNIDADES, COMUNIDADES
+Duplicate email 'maiconkleinicke1@gmail.com' found in files: COMUNIDADES, COMUNIDADES
+Duplicate email 'gmpelvine@hotmail.com' found in files: COMUNIDADES, COMUNIDADES
+Duplicate email 'marcos.sgp1@gmail.com' found in files: COMUNIDADES, COMUNIDADES
+Duplicate email 'klebao@hotmail.com' found in files: COMUNIDADES, COMUNIDADES
+Duplicate email 'matheushenriqueoliveira0103@gmail.com' found in files: COMUNIDADES, COMUNIDADES
+Duplicate email 'romulorodriguesantos@gmail.com' found in files: COMUNIDADES, COMUNIDADES
+Duplicate email 'maicondomingosc@gmail.com' found in files: COMUNIDADES, COMUNIDADES
+Duplicate email 'ednamartins000@gmail.com' found in files: COMUNIDADES, COMUNIDADES
+Duplicate email 'renato@zorzenon.com' found in files: COMUNIDADES, COMUNIDADES
+Duplicate email 'barafael313@hotmail.com' found in files: COMUNIDADES, COMUNIDADES
+Duplicate email 'sidneyliszt69@gmail.com' found in files: COMUNIDADES, COMUNIDADES
+Duplicate email 'rgresende@gmail.com' found in files: COMUNIDADES, COMUNIDADES
+Duplicate email 'antonioctaboas@gmail.com' found in files: COMUNIDADES, COMUNIDADES
+Duplicate email 'andrezaribas@hotmail.com' found in files: COMUNIDADES, COMUNIDADES
+Duplicate email 'fabriciopmatos@gmail.com' found in files: COMUNIDADES, COMUNIDADES
+Duplicate email 'jrcabairdrop@gmail.com' found in files: COMUNIDADES, COMUNIDADES
+Duplicate email 'ana.cs.lino@gmail.com' found in files: COMUNIDADES, COMUNIDADES
+Duplicate email 'roberson.souza@gmail.com' found in files: COMUNIDADES, COMUNIDADES
+Duplicate email 'jluispmatos@gmail.com' found in files: COMUNIDADES, COMUNIDADES
+Duplicate email 'ro.portela@gmail.com' found in files: COMUNIDADES, COMUNIDADES
+Duplicate email 'rgalvaotrade@gmail.com' found in files: COMUNIDADES, COMUNIDADES
+Duplicate email 'giovanni.m.populo@gmail.com' found in files: COMUNIDADES, COMUNIDADES
+Duplicate email 'edu.alri@gmail.com' found in files: COMUNIDADES, COMUNIDADES
+Duplicate email 'thiago.carmignotto@gmail.com' found in files: COMUNIDADES, COMUNIDADES
+Duplicate email 'pedroxaviermota@gmail.com' found in files: COMUNIDADES, COMUNIDADES
+Duplicate email 'arturhengles@gmail.com' found in files: COMUNIDADES, COMUNIDADES
+Duplicate email 'joosan20milhao@gmail.com' found in files: COMUNIDADES, COMUNIDADES
+Duplicate email 'mmcpecora@hotmail.com' found in files: COMUNIDADES, COMUNIDADES
+Duplicate email 'sq.felipe@gmail.com' found in files: COMUNIDADES, COMUNIDADES
+Duplicate email 'cleydiomarfraga22@gmail.com' found in files: COMUNIDADES, COMUNIDADES
+Duplicate email 'fabiano@megamarketing.com.br' found in files: COMUNIDADES, COMUNIDADES
+Duplicate email 'marcelofcjr@gmail.com' found in files: COMUNIDADES, COMUNIDADES
+Duplicate email 'jospacheco097@gmail.com' found in files: COMUNIDADES, COMUNIDADES
+Duplicate email 'guilherme.itokazu.crypto@gmail.com' found in files: COMUNIDADES, COMUNIDADES
+
+
+
+
+
+
+

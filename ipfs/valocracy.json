@@ -1,0 +1,14 @@
+{
+    "name": "Passport Valocrazy",
+    "description": "A collection valocracy",
+    "mediaUri": "ipfs://QmVXov9c7yKcSVpKvrSjvaMx8DdwADcc58AkXkbbsiekXd/image/aliens/thumb/alien01.jpg",
+    "externalUri": "https://portal.valocracy.xyz",
+    "thumbnailUri": "ipfs://QmVXov9c7yKcSVpKvrSjvaMx8DdwADcc58AkXkbbsiekXd/image/aliens/thumb/alien01.jpg",
+    "license": "MIT",
+    "licenseUri": "",
+    "tags": [
+        "valocracy",
+        "nft",
+        "rmrk"
+    ]
+}

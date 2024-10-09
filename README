@@ -1,0 +1,70 @@
+GET_BALANCE -> 0xC8c4C6f2d897c10e79EcD9DEb303F3100e2a3e6b moobeam
+
+- export NODE_ENV=test && npx hardhat run scripts/run-deploy-valocracy.ts --network moonbaseAlpha
+- export NODE_ENV=test && npx hardhat run scripts/run-deploy-erc20.ts --network moonbaseAlpha
+hardhat --network moonbaseAlpha
+
+- 
+npx hardhat node
+
+        
+npx hardhat run scripts/run-deploy-catalog.ts --network localhost
+
+export NODE_ENV=development && npx hardhat run scripts/run-deploy-terminal.ts --network localhost
+export NODE_ENV=development && npx hardhat run scripts/run-deploy-utils.ts --network localhost
+
+export NODE_ENV=development && npx hardhat run scripts/equippable/run-configure-and-mint.ts --network localhost
+----------------------------------------------
+
+## moon alpha
+
+export NODE_ENV=test &&  npx hardhat run scripts/run-deploy-terminal.ts --network moonbaseAlpha      
+export NODE_ENV=test && npx hardhat run scripts/run-deploy-catalog.ts --network moonbaseAlpha
+export NODE_ENV=test && npx hardhat run scripts/run-deploy-utils.ts --network moonbaseAlpha
+
+export NODE_ENV=test && npx hardhat run scripts/equippable/run-configure-and-mint.ts --network moonbaseAlpha
+
+npx hardhat run scripts/verify_contract.ts --network moonbaseAlpha
+
+
+[NETWORK_CONTRACTS_PROPS.RMRKEquipRenderUtils]: '0x2279B7A0a67DB372996a5FaB50D91eAA73d2eBe6',
+[NETWORK_CONTRACTS_PROPS.RMRKBulkWriter]: '0x5FC8d32690cc91D4c39d9d3abcBD16989F875707',
+[NETWORK_CONTRACTS_PROPS.RMRKCollectionUtils]: '0xa513E6E4b8f2a923D98304ec87F64353C4D5C853',
+[NETWORK_CONTRACTS_PROPS.RMRKCatalogUtils]: '0x0165878A594ca255338adfa4d48449f69242Eb8F',
+
+carteira valomain pricipal
+-> TEST QUE DEU CERTO 0x8564800d5e68ddb100e3cd3b036ca7b531206775
+-> TEST QUE DEU ERRADO 0x1813d994ede90f7e1d1523b43dc0cd80a3157f4a
+
+MOONER TEST http://167.99.124.97:3000/
+
+## TEST
+
+export NODE_ENV=test && yarn test test/equippable/passportAirlift.ts --network moonbaseAlpha
+----------
+
+https://gateway.pinata.cloud/ipfs/QmadB7RnpfXSd2JX1e6HZLBKwSkBR3PiXhTmkN9dE5DKur/items/flag/left.json
+
+imagem:
+https://gateway.pinata.cloud/ipfs/QmWHfjuK256s9hyTzjbVH6BvkTBP1AAwnAJANJkhzNKW8y/chunkies/parts/v1/body.svg
+
+Set Approval For All For Assets
+
+--------------------
+## MAIN
+
+export NODE_ENV=prod &&  npx hardhat run scripts/run-deploy-terminal.ts --network moonbeam      
+
+export NODE_ENV=prod && npx hardhat run scripts/equippable/run-configure-and-mint.ts --network moonbeam
+
+Deploy: 3.1045730400118527
+Configuração dos contratos: 0.03492429
+Setar whitelist: 9.462381
+
+total: 12,60
+
+###############################################
+
+AMOY
+
+export NODE_ENV=test && npx hardhat run scripts/run-deploy-erc721.ts --network polygonAmoy 

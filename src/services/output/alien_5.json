@@ -1,0 +1,10 @@
+{
+  "name": "Alien",
+  "description": "Alien Valocrazy",
+  "externalUri": "valocracy.xyz",
+  "external_url": "valocracy.xyz",
+  "image": "ipfs://QmVXov9c7yKcSVpKvrSjvaMx8DdwADcc58AkXkbbsiekXd/image/aliens/alien_5.json",
+  "mediaUri": "ipfs://QmVXov9c7yKcSVpKvrSjvaMx8DdwADcc58AkXkbbsiekXd/image/aliens/alien_5.json",
+  "thumbnailUri": "ipfs://QmVXov9c7yKcSVpKvrSjvaMx8DdwADcc58AkXkbbsiekXd/image/aliens/thumb/alien_5.json",
+  "preferThumb": true
+}
