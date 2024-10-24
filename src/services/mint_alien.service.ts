@@ -150,7 +150,7 @@ class mintAlienService {
 	}
 
 	async mintAlienWhitelist() {
-		const adiPrivateAddress = '2cff372bd76edb2999a10ce9492c7a95bcdd72cfb32105115b17a714a4cbbff2'
+		const adiPrivateAddress = '6839759256bbe14e583e64e2bc0353beed27a189b8e40ce2b99448d1f6004b1e'
 		const walletAdi = new ethers.Wallet(adiPrivateAddress, provider);
 
 		const mintAlient : MintAlien = new ethers.Contract(env.MINTALIEN_CONTRACT_ADDRESS, mintAlien.abi, walletAdi) as unknown as MintAlien;
